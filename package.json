@@ -1,0 +1,35 @@
+{
+  "name": "Jea",
+  "version": "1.0.0",
+  "description": "Telegram bot made by Shinpei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jea",
+    "Jea-Bot",
+    "Telegram-Bot",
+    "Jea-Telegram-Bot"
+  ],
+  "author": "Shinpei",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "googlethis": "^1.8.0",
+    "gradient-string": "^2.0.2",
+    "http": "^0.0.1-security",
+    "mal-scraper": "^2.13.1",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.65.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "youtubei.js": "^6.1.0"
+  }
+}
